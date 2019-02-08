@@ -1,0 +1,17 @@
+/*displays a 3px green border around all <p tagged elements*/
+.b1
+{
+    border: 3px solid green;
+}
+/*displayes a 3px solid red border around p elements in first div*/
+.pfirstdiv
+{
+    border: 3px solid red;
+}
+
+/*displays a 3px solit blue border around p elements in second div*/
+.pseconddiv
+{
+    border: 3px solid blue;
+
+}

@@ -1,3 +1,6 @@
+### POINTS: 1.5
+### KEY: Good work but some of the selectors for just the DIVs in CW1 selected all DIVs. CW2 was fine and good comments.
+
 # Review: JavaScript/jQuery
 
 ### Exercise 1: Selectors
